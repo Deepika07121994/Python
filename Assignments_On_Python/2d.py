@@ -34,4 +34,4 @@ for each in range(0, rowAndColumn[1]):
     cminlst.append(min(clist))
 
 print("elements with minimum values column-wise:", cminlst)
-print("elements with maximum values column-wise: ", cmaxlst)   
+print("elements with maximum values column-wise: ", cmaxlst)    
